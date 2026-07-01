@@ -1,0 +1,478 @@
+canonical_identifier: bkk:krp/KR6n0082/T/v1
+canonical_location: https://kanripo.org/bkk/KR6n0082/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘阿毘達磨雜集論
+  identifiers:
+    krp: KR6n0082
+    cbeta: T31n1606
+    cbeta_old_id: T31n1606
+    authorityid: CA0000064
+    json_key: T1606
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1606.xml
+    old_id: T31n1606
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0082_000-T.yaml, hash: 'sha256:969a457a426a8f718a39c41d882a506e3fdc9503de42bdd252195db969774446'}
+  - {seq: 1, filename: KR6n0082_001-T.yaml, hash: 'sha256:8f8334a67cda2a790fd1ee30dbf1176f39de7557dbc0de7f6266e3fdccedd73e'}
+  - {seq: 2, filename: KR6n0082_002-T.yaml, hash: 'sha256:33a09fe04d1096d180da92e878842c092225bca6ff38ebb3c96f36484424924c'}
+  - {seq: 3, filename: KR6n0082_003-T.yaml, hash: 'sha256:ef13f460823aba14082fa3a2e922bd4775f9898ff672c8e992166ba0c4d24cbf'}
+  - {seq: 4, filename: KR6n0082_004-T.yaml, hash: 'sha256:f447bb88c4f61232769c6338688ce5097577cc3cf957a644aebe77fc47e047bb'}
+  - {seq: 5, filename: KR6n0082_005-T.yaml, hash: 'sha256:71820c2bda26a86a2088f13b23fe80f63df08ee2007272af79312c268ae0303e'}
+  - {seq: 6, filename: KR6n0082_006-T.yaml, hash: 'sha256:2ae6e1378d070d157f81bde5507ca9fefc39c32631745dbe50063623c7049d37'}
+  - {seq: 7, filename: KR6n0082_007-T.yaml, hash: 'sha256:f12000bd93b2e9e90183f5200295e6d187dd75e8d333c73317164841759bc546'}
+  - {seq: 8, filename: KR6n0082_008-T.yaml, hash: 'sha256:2e44f76d2b71545f9c6f1680246d5b4215b88cb40a50f0e5694d1c6d6e2c8613'}
+  - {seq: 9, filename: KR6n0082_009-T.yaml, hash: 'sha256:702759b2d23842ee0be7323f29a4c038ffb306dac62c51a830d901d4f3c62b4f'}
+  - {seq: 10, filename: KR6n0082_010-T.yaml, hash: 'sha256:de508babfd7889a7326b12844eb5f855ab51063aa590b426c1ef8c063d44e652'}
+  - {seq: 11, filename: KR6n0082_011-T.yaml, hash: 'sha256:9be1f83413b7943074a4b80b6609e0251b46b90947a58a160c69e42cb8b1efdd'}
+  - {seq: 12, filename: KR6n0082_012-T.yaml, hash: 'sha256:768893983e7636cbe7cd1fa9960c0ad277f20b965537152cb1207600499977ea'}
+  - {seq: 13, filename: KR6n0082_013-T.yaml, hash: 'sha256:b9761de779a0159092b86dad015ae147a2962538ee389b5d517999f9b3534a58'}
+  - {seq: 14, filename: KR6n0082_014-T.yaml, hash: 'sha256:b6ba4d9ffda7552092345d6059314c8277654a0ab1d80678a49e62ac2aad2483'}
+  - {seq: 15, filename: KR6n0082_015-T.yaml, hash: 'sha256:f1fc022d731f9180bf55b32aac31e7986015a3e512ec392f6aa904ff27b59b79'}
+  - {seq: 16, filename: KR6n0082_016-T.yaml, hash: 'sha256:30ebcad83c3f86610d5af9b048ac497dff16bac89a7f455999a37692667a92f4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0082_000-T.markers.yaml, hash: 'sha256:6870ac2f9754c7a81ada9230399f5d8b08ee79b54b1fa63f2c21d40489d82905'}
+  - {seq: 1, role: markers, filename: assets/KR6n0082_001-T.markers.yaml, hash: 'sha256:08409aff0d8924669242e150b5f142521fec99625a000062ed78cbd801f922c5'}
+  - {seq: 2, role: markers, filename: assets/KR6n0082_002-T.markers.yaml, hash: 'sha256:f5f264f57213123276f4cd90ca716048c503379490d861fc7e251f518eebdfa4'}
+  - {seq: 3, role: markers, filename: assets/KR6n0082_003-T.markers.yaml, hash: 'sha256:de6cc11aafac877633800eedd64671b17bc20a88aaa5663decf42b0f52cbecd0'}
+  - {seq: 4, role: markers, filename: assets/KR6n0082_004-T.markers.yaml, hash: 'sha256:e872a1fea4a65384d6c1f3ff7bc2f9716faff594af760b1f175fd629503ad42d'}
+  - {seq: 5, role: markers, filename: assets/KR6n0082_005-T.markers.yaml, hash: 'sha256:6ea44da96bf8c94eabc7e00a3a94b764c33f23b225ca5ca8c6087ec6404e28c6'}
+  - {seq: 6, role: markers, filename: assets/KR6n0082_006-T.markers.yaml, hash: 'sha256:b8c5c4150af04e4192279ff92a9edc21163bc55246a11e2e3b095af5d48b894d'}
+  - {seq: 7, role: markers, filename: assets/KR6n0082_007-T.markers.yaml, hash: 'sha256:9e92535f66a4164ded86b6faacd808dc0a80149b66e9beffc178c3685e763c25'}
+  - {seq: 8, role: markers, filename: assets/KR6n0082_008-T.markers.yaml, hash: 'sha256:7ff490681dc33a439c27080d4c48e1a8446c03e3cd5bc81e2fc6c502627738ac'}
+  - {seq: 9, role: markers, filename: assets/KR6n0082_009-T.markers.yaml, hash: 'sha256:0b2a1cd4c7bf7f85af4d9fd9d9b81836fb935d7fe74764c34d05d8809c27ed61'}
+  - {seq: 10, role: markers, filename: assets/KR6n0082_010-T.markers.yaml, hash: 'sha256:f400f8e62cbd7ea747697951a84b0c0b0b9d45c11201d7e2c0bbc1a571b77e43'}
+  - {seq: 11, role: markers, filename: assets/KR6n0082_011-T.markers.yaml, hash: 'sha256:309bf059da725ac5031cd0021e559deadf806685fb7b22e92d09d3d13c989cf4'}
+  - {seq: 12, role: markers, filename: assets/KR6n0082_012-T.markers.yaml, hash: 'sha256:4218d4f709a7a65cf5d67ed3ccf3bdc4f6965890d0cc29677e063da14f4b9ee6'}
+  - {seq: 13, role: markers, filename: assets/KR6n0082_013-T.markers.yaml, hash: 'sha256:480756ac3405735ce59dc4bd94824d31fc792ecd5b505b21f95187f0be8627a5'}
+  - {seq: 14, role: markers, filename: assets/KR6n0082_014-T.markers.yaml, hash: 'sha256:16ec2e93c987986bfea6baa8bee31fdbd26c5d93b3d5e643ddecf37a1e6856f2'}
+  - {seq: 15, role: markers, filename: assets/KR6n0082_015-T.markers.yaml, hash: 'sha256:019e00166e42e548a8f9b74871a32ccc89e0b9d6fa16e5720e8b043d729ae0fd'}
+  - {seq: 16, role: markers, filename: assets/KR6n0082_016-T.markers.yaml, hash: 'sha256:46472dbb9be6a6eba7082c4591925e5e9ab69252513afc9973962339245ac8c1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0082_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7557
+  label: 大乘阿毘達磨雜集論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0082_T_001-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 1 本事分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0082_T_001-mulu-2
+    span:
+    - body
+    - 16
+    - 16
+  label: 1 三法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0082_T_001-mulu-3
+    span:
+    - body
+    - 16
+    - 16
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0082_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6435
+  label: 大乘阿毘達磨雜集論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0082_T_002-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: '2'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0082_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6285
+  label: 大乘阿毘達磨雜集論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0082_T_003-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: '3'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0082_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6556
+  label: 大乘阿毘達磨雜集論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0082_T_004-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: '4'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0082_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7032
+  label: 大乘阿毘達磨雜集論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0082_T_005-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: '5'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0082_T_005-mulu-2
+    span:
+    - body
+    - 4618
+    - 4618
+  label: 2 攝品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0082_T_005-mulu-3
+    span:
+    - body
+    - 5685
+    - 5685
+  label: 3 相應品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0082_T_005-mulu-4
+    span:
+    - body
+    - 6366
+    - 6366
+  label: 4 成就品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0082_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 7098
+  label: 大乘阿毘達磨雜集論卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0082_T_006-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 2 決擇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0082_T_006-mulu-2
+    span:
+    - body
+    - 16
+    - 16
+  label: 1 諦品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0082_T_006-mulu-3
+    span:
+    - body
+    - 16
+    - 16
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0082_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7993
+  label: 大乘阿毘達磨雜集論卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0082_T_007-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: '2'
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0082_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 6896
+  label: 大乘阿毘達磨雜集論卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0082_T_008-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: '3'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0082_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 5524
+  label: 大乘阿毘達磨雜集論卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0082_T_009-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: '4'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0082_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 6160
+  label: 大乘阿毘達磨雜集論卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0082_T_010-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: '5'
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6n0082_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 7357
+  label: 大乘阿毘達磨雜集論卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6n0082_T_011-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 2 法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6n0082_T_011-mulu-2
+    span:
+    - body
+    - 20
+    - 20
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6n0082_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 6332
+  label: 大乘阿毘達磨雜集論卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6n0082_T_012-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: '2'
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6n0082_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 8558
+  label: 大乘阿毘達磨雜集論卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6n0082_T_013-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 3 得品
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6n0082_T_013-mulu-2
+    span:
+    - body
+    - 20
+    - 20
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6n0082_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 8186
+  label: 大乘阿毘達磨雜集論卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6n0082_T_014-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: '2'
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6n0082_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 5684
+  label: 大乘阿毘達磨雜集論卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6n0082_T_015-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 4 論品
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6n0082_T_015-mulu-2
+    span:
+    - body
+    - 20
+    - 20
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6n0082_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 6376
+  label: 大乘阿毘達磨雜集論卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6n0082_T_016-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: '2'
+  type: mulu
+  level: 1
+hash: sha256:c4cd5f99f2a48f2eaf9a7afdd2cf17d546096a4f41bed9cb8ead0411d293f48c

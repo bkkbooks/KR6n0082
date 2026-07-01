@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0082/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘阿毘達磨雜集論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1606.xml
+    old_id: T31n1606
+hash: sha256:969a457a426a8f718a39c41d882a506e3fdc9503de42bdd252195db969774446
